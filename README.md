@@ -50,3 +50,11 @@ promotion2: to avoid the light is so small that can't be seen, find contours aga
 promotion3: only choose the lowest point if there are more chariots
 
  */
+ 
+ 
+ 
+//70fps
+
+#define MODE_SAVEVIDEOLOG//35fps
+
+//#define MODE_SHOWVIDEOLOG//18fps
